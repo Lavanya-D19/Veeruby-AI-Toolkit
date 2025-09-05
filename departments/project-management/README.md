@@ -1,5 +1,3 @@
-# [Veeruby Banner Image Here]
-
 # 📅 Project Management – AI Tools
 
 AI in Project Management helps Veeruby teams **organize tasks, capture knowledge, and improve collaboration efficiency**.  
@@ -9,10 +7,11 @@ This guide follows a consistent format: **Quick View → Details → Workflow �
 
 ## 📌 Recommended Tools (Quick View)
 
-| Use Case              | Tool          | Logo | Link                   | Free/Paid | Setup Time |
-|------------------------|---------------|------|------------------------|-----------|------------|
-| Knowledge Base & Docs  | **Notion AI** | ![Notion Logo](https://seeklogo.com/images/N/notion-logo-4CE8FBF5E8-seeklogo.com.png) | https://www.notion.so/ | ✅ Free + 💎 Paid | <5 mins (Google login) |
-| Task Automation        | **ClickUp AI** | ![ClickUp Logo](https://seeklogo.com/images/C/clickup-logo-315C6C1E37-seeklogo.com.png) | https://clickup.com/ | 💎 Paid | ~15 mins (workspace setup) |
+| Use Case              | Tool          | Logo | Link                       | Free/Paid | Setup Time |
+|------------------------|---------------|------|----------------------------|-----------|------------|
+| Knowledge Base & Docs  | **Notion AI** | ![Notion](../../assets/logos/notion.png) | https://www.notion.so/ | ✅ Free + 💎 Paid | <5 mins (Google login) |
+| Task Automation        | **ClickUp AI**| ![ClickUp](../../assets/logos/clickup.png) | https://clickup.com/ | 💎 Paid | ~15 mins (workspace setup) |
+
 
 ---
 
