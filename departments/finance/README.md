@@ -1,5 +1,3 @@
-# [Veeruby Banner Image Here]
-
 # 💰 Finance – AI Tools
 
 AI in Finance helps Veeruby teams **automate bookkeeping, manage expenses, and track budgets**.  
@@ -9,10 +7,10 @@ This guide follows a consistent format: **Quick View → Details → Workflow �
 
 ## 📌 Recommended Tools (Quick View)
 
-| Use Case              | Tool                 | Logo | Link                        | Free/Paid | Setup Time |
-|------------------------|----------------------|------|-----------------------------|-----------|------------|
-| Invoicing & Bookkeeping | **Zoho Books Free**  | ![Zoho Books Logo](https://seeklogo.com/images/Z/zoho-logo-05C7F80C43-seeklogo.com.png) | https://www.zoho.com/books/ | ✅ Free + 💎 Paid | ~10 mins (Google login & setup) |
-| Spend Management        | **Ramp**             | ![Ramp Logo](https://seeklogo.com/images/R/ramp-logo-7E9AD8ED63-seeklogo.com.png) | https://ramp.com | 💎 Paid | ~15 mins (account verification) |
+| Use Case                | Tool               | Logo | Link                       | Free/Paid | Setup Time |
+|--------------------------|--------------------|------|----------------------------|-----------|------------|
+| Invoicing & Bookkeeping  | **Zoho Books Free**| ![Zoho Books](../../assets/logos/zoho-books.png) | https://www.zoho.com/books/ | ✅ Free + 💎 Paid | ~10 mins (Google login & setup) |
+| Spend Management         | **Ramp**           | ![Ramp](../../assets/logos/ramp.png) | https://ramp.com | 💎 Paid | ~15 mins (account verification) |
 
 ---
 
