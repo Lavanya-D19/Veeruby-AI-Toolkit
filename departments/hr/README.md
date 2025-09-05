@@ -1,5 +1,3 @@
-# [Veeruby Banner Image Here]
-
 # 👥 Human Resources (HR) – AI Tools
 
 AI in HR helps Veeruby teams **streamline recruitment, manage candidates, and automate internal workflows**.  
@@ -11,8 +9,9 @@ This guide follows a consistent format: **Quick View → Details → Workflow �
 
 | Use Case                  | Tool                     | Logo | Link                                   | Free/Paid | Setup Time |
 |----------------------------|--------------------------|------|----------------------------------------|-----------|------------|
-| ATS & Candidate Pipeline   | **Zoho Recruit Free**    | ![Zoho Recruit Logo](https://seeklogo.com/images/Z/zoho-logo-05C7F80C43-seeklogo.com.png) | https://www.zoho.com/recruit/ | ✅ Free + 💎 Paid | ~10 mins (Google login & setup) |
-| Forms & Internal Workflows | **Google Forms + Gemini AI** | ![Google Workspace Logo](https://seeklogo.com/images/G/google-workspace-logo-5E7F6A0D3A-seeklogo.com.png) | https://workspace.google.com/ | ✅ Free + 💎 Paid | <5 mins (Google account) |
+| ATS & Candidate Pipeline   | **Zoho Recruit Free**    | ![Zoho Recruit](../../assets/logos/zoho-recruit.png) | https://www.zoho.com/recruit/ | ✅ Free + 💎 Paid | ~10 mins (Google login & setup) |
+| Forms & Internal Workflows | **Google Forms + Gemini**| ![Google Forms](../../assets/logos/google-forms.png) | https://workspace.google.com/ | ✅ Free + 💎 Paid | <5 mins (Google account) |
+
 
 ---
 
