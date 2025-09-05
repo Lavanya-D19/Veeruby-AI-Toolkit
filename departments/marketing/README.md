@@ -1,7 +1,4 @@
-# ![Veeruby AI Tools Banner](../../assets/banner.png)
-
-
-# 🎨 Marketing – AI Tools
+ 🎨 Marketing – AI Tools
 
 AI in Marketing helps Veeruby teams **create faster, design smarter, and optimize campaigns**.  
 This guide follows a consistent format: **Quick View → Details → Workflow → Cross-links.**
