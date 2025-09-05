@@ -1,4 +1,4 @@
-# [Veeruby Banner Image Here]
+
 
 # 📈 Sales – AI Tools
 
@@ -9,10 +9,10 @@ This guide follows a consistent format: **Quick View → Details → Workflow �
 
 ## 📌 Recommended Tools (Quick View)
 
-| Use Case                | Tool                  | Logo | Link                              | Free/Paid | Setup Time |
-|--------------------------|-----------------------|------|-----------------------------------|-----------|------------|
-| CRM & Lead Tracking      | **HubSpot CRM Free**  | ![HubSpot Logo](https://seeklogo.com/images/H/hubspot-logo-7B2199610E-seeklogo.com.png) | https://www.hubspot.com/ | ✅ Free   | <10 mins (Google login) |
-| Prospecting & Enrichment | **Apollo.io**         | ![Apollo Logo](https://seeklogo.com/images/A/apollo-io-logo-3F92D622B0-seeklogo.com.png) | https://www.apollo.io/ | 💎 Paid   | ~15 mins (account setup) |
+| Use Case                | Tool                  | Logo | Link                         | Free/Paid | Setup Time |
+|--------------------------|-----------------------|------|------------------------------|-----------|------------|
+| CRM & Lead Tracking      | **HubSpot CRM Free**  | ![HubSpot](../../assets/logos/hubspot.png) | https://www.hubspot.com/ | ✅ Free | <10 mins (Google login) |
+| Prospecting & Enrichment | **Apollo.io**         | ![Apollo](../../assets/logos/apollo.png) | https://www.apollo.io/ | 💎 Paid | ~15 mins (account setup) |
 
 ---
 
