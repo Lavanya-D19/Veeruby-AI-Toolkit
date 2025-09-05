@@ -8,9 +8,10 @@ This guide follows a consistent format: **Quick View → Details → Workflow �
 ## 📌 Recommended Tools (Quick View)
 
 | Use Case                 | Tool              | Logo | Link                                      | Free/Paid | Setup Time |
-|--------------------------|-------------------|------|-------------------------------------------|-----------|------------|
-| AI IDE & Code Assistant  | **Cursor AI**     | ![Cursor](../../assets/logos/cursor.png)   | https://cursor.sh                          | ✅ Free + 💎 Paid | <5 mins (Google login) |
-| Pair Programming         | **GitHub Copilot**| ![Copilot](../../assets/logos/copot.png)   | https://github.com/features/copilot        | 💎 Paid | ~10 mins (install extension) |
+|---------------------------|-------------------|------|-------------------------------------------|-----------|------------|
+| AI IDE & Code Assistant   | **Cursor AI**     | ![Cursor](../../assets/logos/cursor.png) | https://cursor.sh | ✅ Free + 💎 Paid | <5 mins (Google login) |
+| Pair Programming          | **GitHub Copilot**| ![Copilot](../../assets/logos/copilot.png) | https://github.com/features/copilot | 💎 Paid | ~10 mins (install extension) |
+
 
 
 ---
