@@ -1,7 +1,3 @@
-![Veeruby AI Tools Banner](../../assets/banner.png)
-
-
-
 # 💻 Development – AI Tools
 
 AI in Development helps Veeruby engineers **code faster, debug smarter, and document automatically**.  
