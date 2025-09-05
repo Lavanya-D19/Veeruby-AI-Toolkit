@@ -9,10 +9,10 @@ This guide follows a consistent format: **Quick View → Details → Workflow �
 
 ## 📌 Recommended Tools (Quick View)
 
-| Use Case                | Tool           | Logo | Link                     | Free/Paid | Setup Time |
-|--------------------------|----------------|------|--------------------------|-----------|------------|
-| No-code Test Automation  | **Testim**     | ![Testim Logo](https://seeklogo.com/images/T/testim-logo-7E7C6B6F4A-seeklogo.com.png) | https://www.testim.io | ✅ Free + 💎 Paid | ~10 mins (browser signup) |
-| Unit Test Generation     | **CodiumAI**   | ![CodiumAI Logo](https://seeklogo.com/images/C/codiumai-logo-1D478DAF57-seeklogo.com.png) | https://www.codium.ai/ | ✅ Free + 💎 Paid | <5 mins (IDE plugin) |
+| Use Case                | Tool        | Logo | Link                       | Free/Paid | Setup Time |
+|--------------------------|-------------|------|----------------------------|-----------|------------|
+| No-code Test Automation  | **Testim**  | ![Testim](../../assets/logos/testim.png) | https://www.testim.io | ✅ Free + 💎 Paid | ~10 mins (sign up & connect repo) |
+| Unit/Test Generation     | **CodiumAI**| ![CodiumAI](../../assets/logos/codiumai.png) | https://www.codium.ai/ | ✅ Free + 💎 Paid | <5 mins (install IDE plugin) |
 
 ---
 
