@@ -1,4 +1,5 @@
-# [Veeruby Banner Image Here]
+# ![Veeruby AI Tools Banner](../../assets/banner.png)
+
 
 # 🎨 Marketing – AI Tools
 
@@ -10,9 +11,9 @@ This guide follows a consistent format: **Quick View → Details → Workflow �
 ## 📌 Recommended Tools (Quick View)
 
 | Use Case               | Tool                  | Logo | Link                        | Free/Paid | Setup Time |
-|-------------------------|-----------------------|------|-----------------------------|-----------|------------|
-| Content & Design        | **Canva Magic Studio** | ![Canva Logo](https://seeklogo.com/images/C/canva-logo-9E6634D3A9-seeklogo.com.png) | https://www.canva.com/ | ✅ Free   | <5 mins (Google login) |
-| Social Media Scheduling | **Buffer AI**         | ![Buffer Logo](https://seeklogo.com/images/B/buffer-logo-227B51FEAF-seeklogo.com.png) | https://buffer.com/ | ✅ Free + 💎 Paid | ~10 mins (connect social accounts) |
+|------------------------|-----------------------|------|-----------------------------|-----------|------------|
+| Content & Design       | **Canva Magic Studio**| ![Canva](../../assets/logos/canva.png) | https://www.canva.com/ | ✅ Free | <5 mins (Google login) |
+| Social Media Scheduling| **Buffer AI**         | ![Buffer](../../assets/logos/buffer.png) | https://buffer.com/    | ✅ Free + 💎 Paid | ~10 mins (connect socials) |
 
 ---
 
