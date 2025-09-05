@@ -1,5 +1,3 @@
-# [Veeruby Banner Image Here]
-
 # ✅ Quality Assurance – AI Tools
 
 AI in QA helps Veeruby teams **automate testing, generate test cases, and speed up bug detection**.  
